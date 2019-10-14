@@ -1,0 +1,22 @@
+{
+  "name": "nodejsmysql",
+  "version": "1.0.0",
+  "description": "Sample app for using MySQL with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodejsMySQL"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node",
+    "Express",
+    "MySQL",
+    "Tutorial"
+  ],
+  "author": "Sigfredo Nin (from code in Traversy Media Tutorial)",
+  "license": "ISC"
+}
