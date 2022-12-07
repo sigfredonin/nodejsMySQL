@@ -20,7 +20,7 @@
   "author": "Sigfredo Nin (from code in Traversy Media Tutorial)",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mysql": "^2.17.1"
   }
 }
